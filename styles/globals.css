@@ -14,3 +14,27 @@ a {
 * {
   box-sizing: border-box;
 }
+.active{
+	height: 300px!important;
+}
+.tabs{
+	width: 60px;
+}
+.line_club{
+	transition-duration: 0.3s;
+  left : 0px!important;
+}
+.line_gold{
+	transition-duration: 0.3s;
+  left : 60px!important;
+}
+.line_premium{
+transition-duration: 0.3s;
+  left : 120px!important;
+}
+.line_diamond{
+transition-duration: 0.3s;
+  left : 180px!important;
+}
+
+
